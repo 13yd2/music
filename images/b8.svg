@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="291.6467"
+   height="291.6817"
+   id="svg3344">
+  <defs
+     id="defs3346" />
+  <metadata
+     id="metadata3349">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-229.17665,-386.52133)"
+     id="layer1">
+    <path
+       d="m 372.67635,568.49745 c 28.1063,0 42.1564,-21.40268 42.1564,-64.21272 l 0,-117.7634 -16.6886,0 0,101.30849 c -8.9786,-7.74523 -17.9543,-11.61548 -26.9299,-11.61548 -11.322,0 -21.0342,4.56923 -29.1351,13.70926 -8.0976,9.14789 -12.151,20.16966 -12.151,33.07628 0,12.48097 4.201,23.18389 12.5908,32.10716 8.3929,8.92799 18.4443,13.39041 30.1574,13.39041"
+       id="path3154"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 437.81125,671.75207 c -4.8043,2.43619 -9.6368,4.57709 -14.496,6.45096 l 97.5081,0 0,-125.50234 c -5.0571,29.76835 -15.5954,55.25646 -31.6259,76.45966 -13.4641,17.8607 -30.5971,32.05688 -51.3862,42.59172"
+       id="path3152"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 279.85785,386.52133 -50.6812,0 0,73.03863 c 7.402,-20.63773 18.8088,-39.6215 34.2974,-56.91831 5.2864,-5.90276 10.7503,-11.26992 16.3838,-16.12032"
+       id="path3144"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 263.76455,639.16586 c -15.6362,-16.89941 -27.1388,-35.82349 -34.5879,-56.73296 l 0,95.77013 91.2182,0 c -21.0184,-7.94942 -39.8978,-20.95814 -56.6303,-39.03717"
+       id="path3142"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+</svg>
