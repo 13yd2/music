@@ -23,8 +23,8 @@ Fucking sad
 
 ----
 
-Fire
-Burn every bridge thats required
-Salt the earth and destroy the entire
-chance of life ever after - The rider
-The rider
+Fire  
+Burn every bridge thats required  
+Salt the earth and destroy the entire  
+chance of life ever after - The rider  
+The rider  
