@@ -18,8 +18,8 @@ The last man standing is damned
 So just abandon all the plans  
 That you had  
 They were bad  
-Fucking bad
-Fucking sad
+Fucking bad  
+Fucking sad  
 
 ----
 
